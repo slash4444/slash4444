@@ -14,8 +14,6 @@ Work with: Windows: 10
 
 These are the languages that i can code in: C# / C++ / NODE / HTML / CSS / Python / Javascript / PHP
 
-Currently learning: Delphi / Pascal
-
 If I can be of assistance, please don't hesitate to contact me. 
 You will find me putting a lot of solid advise for your business and always taking the extra mile to get things done.
 
